@@ -140,7 +140,7 @@ span {
 footer {
     background: black;
     color: white;
-    margin-top: 40px;
+    margin-top: 180px;
 }
 .footer {
     width: 50%;
@@ -162,4 +162,30 @@ footer {
     width: 55%;
     margin: auto;
     padding: 7px;
+}
+#portfolio{
+    background-image: url(images/NewProject.png);
+    color: white;
+    height: 570px;
+    padding: 0px 76px;
+}
+.portfoliosection h2 {
+    width: 30%;
+    margin: auto;
+    font-size: 50px;
+}
+.portfoliosection h2 {
+    width: 30%;
+    margin: auto;
+    font-size: 50px;
+    padding-bottom: 15px;
+}
+
+#portfolio h1 {padding-top: 180px;font-size: 45px;}
+
+#portfolio p {
+    width: 51%;
+    padding: 25px 0px;
+    font-size: larger;
+    font-family: system-ui;
 }
