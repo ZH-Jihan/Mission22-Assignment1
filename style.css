@@ -29,7 +29,7 @@ section{
 }
 .detail h1 {
     width: 80%;
-    font-size: 45px;
+    font-size: 50px;
     border-left: 4px solid red;
     padding: 0px 12px;
 }
@@ -63,10 +63,10 @@ p.scroll {
 }
 
 h1.mymission {
-    width: 29%;
+    width: 37%;
     margin: auto;
-    font-size: 40px;
-    padding-bottom: 25px;
+    font-size: 50px;
+    padding-bottom: 35px;
 }
 
 span {
@@ -92,4 +92,32 @@ span {
 }
 .mvgpragraph {
     padding: 20px 0px;
+}
+.workwith img {
+    width: 40%;
+    float: left;
+    border-radius: 30px;
+ }
+
+.workwith {
+    margin-top: 50px;
+    overflow: hidden;
+}
+
+.withoutlimit {
+    width: 54%;
+    float: left;
+    padding: 45px 0px;
+    padding-left: 50px;
+}
+
+.withoutlimit h2 {
+    font-size: 40px;
+    width: 48%;
+}
+
+.withoutlimit p {
+    width: 100%;
+    padding: 25px 0px;
+    font-size: larger;
 }
