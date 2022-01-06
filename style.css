@@ -121,3 +121,40 @@ span {
     padding: 25px 0px;
     font-size: larger;
 }
+.teamwork {
+    width: 60%;
+    float: left;
+    padding: 65px 0px;
+}
+.teamwork h2 {
+    font-size: 40px;
+    width: 45%;
+}
+
+.teamwork p {
+    font-size: larger;
+    width: 82%;
+    padding: 20px 0px;
+    margin-bottom: 25px;
+}
+footer {
+    background: black;
+    color: white;
+    margin-top: 40px;
+}
+.footer {
+    width: 50%;
+    margin: auto;
+    padding: 30px 0px;
+}
+
+.footer h1 {
+    width: 50%;
+    margin: auto;
+    padding: 10px;
+}
+
+.footer p {
+    width: 75%;
+    margin: auto;
+}
